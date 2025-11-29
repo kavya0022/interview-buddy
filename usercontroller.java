@@ -11,7 +11,7 @@ public class usercontroller {
         user.setAddress("123 Main Street");
         user.setPhone("1234567890");
         user.setPassword("password");
-        return use;
+        return use; //Added AI functionality
     }
 }
 
